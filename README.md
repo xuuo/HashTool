@@ -2,9 +2,9 @@
 
 [中文说明](README_CN.md)
 
-HashTool is a lightweight **Windows desktop file verification tool** built with **VB.NET and WPF**. It is designed to calculate and verify **MD5** and **SHA256** hashes, helping users quickly validate file integrity.
-
-This project focuses on **file verification** scenarios. Its core strength lies in **parallel hash computation for multiple files**, which can significantly reduce the total time required when processing large numbers of files. The interface is clean and straightforward, making it suitable both as a daily utility and as a learning reference for WPF / VB.NET development.
+HashTool is a high-performance **Windows file hash verification tool** built with **VB.NET and WPF**. 
+It supports **MD5 and SHA256** and is designed for **batch and parallel file hash calculation**, 
+helping users quickly verify **file integrity** even when processing large numbers of files.
 
 ## ✨ Features
 
@@ -20,9 +20,16 @@ This project focuses on **file verification** scenarios. Its core strength lies 
 - Clean and intuitive WPF-based user interface
 - Native Windows desktop application experience
 
+## 💡 Use Cases
+
+- Verifying file integrity after large downloads
+- Batch hash verification for backup files
+- Checking file consistency during file distribution
+- High-speed hash calculation for large numbers of files
+
 ## 🖼️ Screenshot
 
-![HashTool Screenshot](screenshot.png)
+![HashTool UI – Parallel File Hash Verification](screenshot.png)
 
 ## 🛠️ Tech Stack
 
@@ -95,3 +102,6 @@ This project is licensed under the **MIT License**.
 ---
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
+
+
+Keywords: file hash, file verification, MD5, SHA256, Windows hash tool, parallel hash
