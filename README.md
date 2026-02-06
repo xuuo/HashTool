@@ -1,4 +1,4 @@
-# HashTool
+# HashTool – High-Performance Windows File Hash Verification Tool (MD5 / SHA256)
 
 [中文说明](README_CN.md)
 
@@ -22,7 +22,7 @@ This project focuses on **file verification** scenarios. Its core strength lies 
 
 ## 🖼️ Screenshot
 
-> You can add screenshots of the application here
+![HashTool Screenshot](screenshot.png)
 
 ## 🛠️ Tech Stack
 
